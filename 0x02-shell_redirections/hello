@@ -1,3 +1,2 @@
 #!/bin/bash
-vi index
-"hello, World"
+"Hello, World"
